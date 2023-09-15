@@ -1,0 +1,22 @@
+.form{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #add491;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.submit{
+    background-color: #48a0ff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.input{
+    width: 100%;
+    padding: 100px;
+}
